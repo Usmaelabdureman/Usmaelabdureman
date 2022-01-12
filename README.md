@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Usmaelabdureman
+- 👋 Hi, I’m Usmael Abdureman
 - 👀 I’m interested in 
 - 🌱 I’m currently learning at Addis Ababa Institute of Technology
 - 💞️ I’m looking to collaborate on ...

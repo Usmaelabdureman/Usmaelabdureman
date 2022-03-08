@@ -1,13 +1,25 @@
                👋 Hi, I’m Usmael Abdureman
- 👀 I’m interested in 
-🌱 I’m currently learning at Addis Ababa Institute of Technology
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ?
-    #This is my   
-    email:uabdureman@gmail.com or 
-#Mobile 0943930565
+
+I’m currently software engineering student at Addis Ababa institute of Technology(AAiT)
+
+
+#  How to reach me ?
+   
+ email:uabdureman@gmail.com 
+    
+ Mobile: 0943930565
 
 <!---
-Usmaelabdureman/Usmaelabdureman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Usmaelabdureman/Usmaelabdureman is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+<!---
+Usmaelabdureman/Usmaelabdureman is a special repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!---
+Language: Afaan Oromoo
+--->
+<!---
+Religion: Muslim
 --->

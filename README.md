@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Usmael Abdureman
-- 👀 I’m interested in 
-- 🌱 I’m currently learning at Addis Ababa Institute of Technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?
-#This is my email:uabdureman@gmail.com or 
+               👋 Hi, I’m Usmael Abdureman
+ 👀 I’m interested in 
+🌱 I’m currently learning at Addis Ababa Institute of Technology
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ?
+    #This is my   
+    email:uabdureman@gmail.com or 
 #Mobile 0943930565
 
 <!---

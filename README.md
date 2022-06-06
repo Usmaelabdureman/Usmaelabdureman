@@ -7,7 +7,7 @@ I’m currently software engineering student at Addis Ababa institute of Technol
    
  email:uabdureman@gmail.com 
     
- Mobile: 0943930565
+ Mobile: 0935096554
 
 <!---
 Usmaelabdureman/Usmaelabdureman is a special repository because its `README.md` (this file) appears on your GitHub profile.

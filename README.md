@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Usmael</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I am Currently 4th year Software engineering  Student at Addis Ababa Institute of Technology. <span>I'm passionate frontend developer</span></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaelabdureman&label=Profile%20views&color=0e75b6&style=flat" alt="usmaelabdureman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abduremanusmael" target="blank"><img src="https://img.shields.io/twitter/follow/abduremanusmael?logo=twitter&style=for-the-badge" alt="abduremanusmael" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Appointmnet system**
+<!-- - 🔭 I’m currently working on **Hospital Appointmnet system** -->
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Flutter, React**
+<!-- - 💬 Ask me about **Flutter, React** -->
 
-- 📫 How to reach me **uabdureman@gmail.com**
+- 📫 How to reach me **uabdureman@gmail.com** or **0935096554**
 
 - ⚡ Fun fact **I am funny**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usmael</h1>
-<h3 align="center">I am Currently 4th year Software engineering  Student at Addis Ababa Institute of Technology. <span>I'm passionate frontend developer</span></h3>
+<h3 align="center">I am Currently 4<sup>th</sup> year <strong>Software engineering</strong>  Student at Addis Ababa Institute of Technology. <span>I'm passionate frontend developer</span></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaelabdureman&label=Profile%20views&color=0e75b6&style=flat" alt="usmaelabdureman" /> </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usmael</h1>
+<h1 align="center">Hi  There 👋, I'm Usmael</h1>
 <h3 align="center">I am Currently 4<sup>th</sup> year <strong>Software engineering</strong>  Student at Addis Ababa Institute of Technology. <span>I'm passionate frontend developer</span></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaelabdureman&label=Profile%20views&color=0e75b6&style=flat" alt="usmaelabdureman" /> </p>
@@ -31,7 +31,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/usmael"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/usmael" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/usmael"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/usmael" /></a></p><br><br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmaelabdureman&show_icons=true&locale=en" alt="usmaelabdureman" /></p>

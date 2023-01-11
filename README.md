@@ -16,15 +16,17 @@
 
 <h2 align="left"> 📫  Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/usmael/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usmael/" height="30" width="40" /></a>
-
-  <a href="https://www.instagram.com/esmizth/" target="blank"><img align="center" src=" https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg " alt="Esmiz's Insta" height="30" width="40" /></a>
+ 
   
-<a href="https://twitter.com/abduremanusmael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esmiz's twittew" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/usmael/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/usmael/" height="30" width="40" /></a>
+
+<!--   <a href="https://www.instagram.com/esmizth/" target="_blank"><img align="center" src=" https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg " alt="Esmiz's Insta" height="30" width="40" /></a>
+   -->
+<a href="https://twitter.com/abduremanusmael" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Esmiz's twittew" height="30" width="40" /></a>
   
 
 
-<a href="https://fb.com/https://www.facebook.com/usmi.keebar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/usmi.keebar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/usmi.keebar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/usmi.keebar" height="30" width="40" /></a>
 
 </p>
 

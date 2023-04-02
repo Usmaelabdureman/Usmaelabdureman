@@ -1,5 +1,6 @@
 
-<img align="top" alt="Coding" width="700" src="https://user-images.githubusercontent.com/95717548/212018024-8bfa3eea-89dc-4a4a-8373-cc4d526fe6ba.png"/>
+
+<!-- <img align="top" alt="Coding" width="700" src="https://user-images.githubusercontent.com/95717548/212018024-8bfa3eea-89dc-4a4a-8373-cc4d526fe6ba.png"/> -->
 <h1 align="center">Hi  There 👋, I'm Usmael</h1>
 <h3 align="center">I am Currently 4<sup>th</sup> year <strong>Software engineering</strong>  Student at Addis Ababa Institute of Technology. <span>I'm passionate frontend developer</span></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
@@ -38,6 +39,6 @@
 <!-- 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user=Usmaelabdureman&show_icons=true&locale=en" alt="usmaelabdureman" /></p> -->
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p> 
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmaelabdureman" alt="usmaelabdureman" /></a> </p>
+

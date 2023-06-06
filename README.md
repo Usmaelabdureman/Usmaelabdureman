@@ -6,7 +6,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaelabdureman&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitors" /> </p>
 
-<!-- ![GitHub User's stars](https://img.shields.io/github/stars/Usmaelabdureman?style=flat-square) -->
+![GitHub User's stars](https://img.shields.io/github/stars/Usmaelabdureman?style=flat-square)
 <!-- - 🔭 I’m currently working on **Hospital Appointmnet system** -->
 
 - 🌱 I’m currently learning **Nextjs 13 with Prisma and GraphQL**

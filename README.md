@@ -1,8 +1,8 @@
 
 
 <!-- <img align="top" alt="Coding" width="700" src="https://user-images.githubusercontent.com/95717548/212018024-8bfa3eea-89dc-4a4a-8373-cc4d526fe6ba.png"/> -->
-<h1 align="center">Hi  there 👋,Namaskram?  I'm Usmael</h1>
-<h3 align="center">  <span>I'm passionate frontend developer</span></h3>
+<h1 align="center">Hi  there 👋  I am  Usmael</h1>
+<h3 align="center">  <span>I'm passionate full-Stack developer</span></h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmaelabdureman&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitors" /> </p>
 

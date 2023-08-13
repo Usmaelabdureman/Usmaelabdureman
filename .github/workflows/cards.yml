@@ -1,0 +1,18 @@
+name: Vaunt Cards Update
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 5 * * * *
+
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Update Vaunt Cards
+      uses: VauntDev/vaunt-cards-action@main
+      with:
+        # Github Personal Access Token for private repositories
+        token: ${{ secrets.PAT }}

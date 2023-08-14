@@ -1,5 +1,3 @@
-
-
 <!-- <img align="top" alt="Coding" width="700" src="https://user-images.githubusercontent.com/95717548/212018024-8bfa3eea-89dc-4a4a-8373-cc4d526fe6ba.png"/> -->
 <h1 align="center">Hi  there 👋  I am  Usmael</h1>
 <h3 align="center">  <span>I'm passionate full-Stack developer</span></h3>
@@ -36,7 +34,15 @@
 <!-- <p><a href="https://www.buymeacoffee.com/usmael"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/usmael" /></a></p><br><br> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user=Usmaelabdureman&show_icons=true&locale=en" alt="usmaelabdureman" /></p> -->
- 
+ <p>
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/Usmaelabdureman/contributions?format=svg&private=true" width="350" />
+  </a>
+</p>
+
+<!--<p>
+  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Usmaelabdureman/achievements?format=svg&limit=3" width="350" />
+</p>-->
  <p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p> 
 
 

@@ -7,7 +7,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Usmaelabdureman?style=flat-square)
 <!-- - 🔭 I’m currently working on **Hospital Appointmnet system** -->
 
-- 🌱 I’m currently learning **Blockchain Smart contract **
+- 🌱 I’m currently learning Blockchain and AI 
 
  - 💬 Ask me about **MERN, AWS** 
 
@@ -43,6 +43,6 @@
 <!--<p>
   <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Usmaelabdureman/achievements?format=svg&limit=3" width="350" />
 </p>-->
- <p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p> 
+<!-- <p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p> -->
 
 

@@ -8,18 +8,19 @@
 [![wakatime](https://wakatime.com/badge/user/52814bd1-12b0-4349-bf0e-52bd603dc60e.svg)](https://wakatime.com/@52814bd1-12b0-4349-bf0e-52bd603dc60e)
 
 
-<p align="center" >
-        <samp>&gt; Hey There 👋 , I am
-                <b><a target="_blank" href="https://usmael.live">Usmael </a></b>
-        </samp>  
-</p>
+
 <!--  <span align="center">
   <a href="https://github.com/Usmaelabdureman"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=30"></a>
 </span> -->
 
 <h2 align="center"> 
+  <p align="center" >
+        <samp>&gt; Hey There 👋 , I am
+                <b><a target="_blank" href="https://usmael.live">Usmael </a></b>
+        </samp>  
+</p>
   <samp>
-    <a href="https://www.google.com/search?q=Usmael+Abdurahman">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Ethiopia</b> 」
     <br>
@@ -61,7 +62,6 @@
 
 </p>
 
-<br/>
 <br/>
 <br/>
  

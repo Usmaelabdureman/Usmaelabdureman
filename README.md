@@ -19,7 +19,7 @@
 
 <h2 align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Usmael+Abdurhaman">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Usmael+Abdurahman">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Ethiopia</b> 」
     <br>

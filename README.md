@@ -77,9 +77,9 @@
 
 
 ## Top Open Source -
-[![FarmAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/FarmAdvisor)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/web-projects)
+[![FarmAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=FarmAdvisor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/FarmAdvisor)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=advanced-react-assignment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/advanced-react-assignment)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=hate-speech-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/hate-speech-api)
 [![Usmael's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=Usmaelabdureman&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/Usmaelabdureman)
 
 <p align="left">

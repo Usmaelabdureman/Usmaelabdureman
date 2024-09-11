@@ -65,8 +65,8 @@
 **🏆 Top 0.4% Global Rank in Leetcode and ICPC challenges, demonstrating exceptional problem-solving abilities**<br/>
 **✌️ Passion for Problem-Solving & Hiking**<br/>
 
-**❤️ Code Enthusiast & Lifelong Learner**<br/>br/>
-**📧 &emsp; Reach me anytime: usmael.dev@gmail.com**<br/><br/>
+**❤️ Code Enthusiast & Lifelong Learner**<br/>
+**📧 &emsp; Reach me anytime: usmael.dev@gmail.com**<br/>
 **💬 &emsp; Ask me about anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues)**
 
 </p>

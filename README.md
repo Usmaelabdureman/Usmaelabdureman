@@ -5,6 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Usmaelabdureman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+
 [![wakatime](https://wakatime.com/badge/user/52814bd1-12b0-4349-bf0e-52bd603dc60e.svg)](https://wakatime.com/@52814bd1-12b0-4349-bf0e-52bd603dc60e)
 
 
@@ -32,6 +33,9 @@
 <!-- my social -->
 
 <p align="center">
+    <a href="https://leetcode.com/Usmael">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
  <a href="https://usmael.live" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Usmael" />
  </a>
@@ -55,12 +59,18 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy solving problem  and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: usmael.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues)
+
+**🎓 Graduated with Great Distinction from Addis Ababa University (AAU), the 6th ranked university in Africa** <br/>
+
+**🏆 Top 0.4% Global Rank in Leetcode and ICPC challenges, demonstrating exceptional problem-solving abilities**<br/>
+**✌️ Passion for Problem-Solving & Hiking**<br/>
+
+**❤️ Code Enthusiast & Lifelong Learner**<br/>br/>
+**📧 &emsp; Reach me anytime: usmael.dev@gmail.com**<br/><br/>
+**💬 &emsp; Ask me about anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues)**
 
 </p>
+
 
 <br/>
 <br/>
@@ -74,6 +84,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Usmael's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Usmael&theme=Dark)
+
 
 
 ## Top Open Source -

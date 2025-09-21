@@ -44,18 +44,18 @@
 </p>
 <br />
 
-# About Me
+# 💫 About Me
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
-I'm a passionate Full Stack Developer from Ethiopia with a knack for crafting elegant solutions to complex problems. I thrive on challenges and continuously seek opportunities to learn and grow in the ever-evolving world of technology.
+> I'm a passionate Full Stack Developer from Ethiopia with a knack for crafting elegant solutions to complex problems. I thrive on challenges and continuously seek opportunities to learn and grow in the ever-evolving world of technology.
 
-**🎓 Graduated with Great Distinction from Addis Ababa University (AAU), the 6th ranked university in Africa** <br/>
-**🏆 Elite problem-solver, ranking in the Top 0.4% globally on LeetCode and excelling in ICPC challenges.**<br/>
-**❤️ Avid Code Enthusiast & Lifelong Learner.**<br/>
-**🏔️ When I'm not coding, you can find me hiking and exploring nature's trails.**<br/>
-**📧 &emsp; Let's connect! Reach me at: usmael.dev@gmail.com**<br/>
-**💬 &emsp; Have a question or want to collaborate? Feel free to ask me anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).**
+- 🎓 Graduated with **Great Distinction** from Addis Ababa University (AAU), the 6th ranked university in Africa.
+- 🏆 Elite problem-solver, ranking in the **Top 0.4%** globally on LeetCode and excelling in ICPC challenges.
+- ❤️ Avid Code Enthusiast & Lifelong Learner.
+- 🏔️ When I'm not coding, you can find me hiking and exploring nature's trails.
+- 📧 Let's connect! Reach me at: `usmael.dev@gmail.com`
+- 💬 Have a question or want to collaborate? Feel free to ask me anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).
 
 </p>
 

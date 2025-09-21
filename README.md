@@ -1,6 +1,4 @@
 
-<!-- <img align="top" alt="Coding" width="700" src="https://user-images.githubusercontent.com/95717548/212018024-8bfa3eea-89dc-4a4a-8373-cc4d526fe6ba.png"/> -->
-
 <a href="https://komarev.com/ghpvc/?username=Usmaelabdureman">
   <img align="right" src="https://komarev.com/ghpvc/?username=Usmaelabdureman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -8,16 +6,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/52814bd1-12b0-4349-bf0e-52bd603dc60e.svg)](https://wakatime.com/@52814bd1-12b0-4349-bf0e-52bd603dc60e)
 
-
-
-<!--  <span align="center">
-  <a href="https://github.com/Usmaelabdureman"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=30"></a>
-</span> -->
-
 <h2 align="center"> 
   <p align="center" >
         <samp>&gt; Hey There 👋 , I am
-                <b><a target="_blank" href="https://usmael.live">Usmael </a></b>
+                <b><a target="_blank" href="https://usmael.vercel.app">Usmael </a></b>
         </samp>  
 </p>
   <samp>
@@ -36,7 +28,7 @@
     <a href="https://leetcode.com/Usmael">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
- <a href="https://usmael.live" target="blank">
+ <a href="https://usmael.vercel.app" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Usmael" />
  </a>
  <a href="https://linkedin.com/in/usmael-lkdn" target="_blank">
@@ -49,9 +41,6 @@
  <a href="https://instagram.com/esmizth" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Usmael" />
  </a> 
-<!-- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> -->
 </p>
 <br />
 
@@ -59,15 +48,14 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
+I'm a passionate Full Stack Developer from Ethiopia with a knack for crafting elegant solutions to complex problems. I thrive on challenges and continuously seek opportunities to learn and grow in the ever-evolving world of technology.
 
 **🎓 Graduated with Great Distinction from Addis Ababa University (AAU), the 6th ranked university in Africa** <br/>
-
-**🏆 Top 0.4% Global Rank in Leetcode and ICPC challenges, demonstrating exceptional problem-solving abilities**<br/>
-**✌️ Passion for Problem-Solving & Hiking**<br/>
-
-**❤️ Code Enthusiast & Lifelong Learner**<br/>
-**📧 &emsp; Reach me anytime: usmael.dev@gmail.com**<br/>
-**💬 &emsp; Ask me about anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues)**
+**🏆 Elite problem-solver, ranking in the Top 0.4% globally on LeetCode and excelling in ICPC challenges.**<br/>
+**❤️ Avid Code Enthusiast & Lifelong Learner.**<br/>
+**🏔️ When I'm not coding, you can find me hiking and exploring nature's trails.**<br/>
+**📧 &emsp; Let's connect! Reach me at: usmael.dev@gmail.com**<br/>
+**💬 &emsp; Have a question or want to collaborate? Feel free to ask me anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).**
 
 </p>
 
@@ -101,18 +89,6 @@
 <br/>
 <hr/>
 <br/>
-<!--
-<p align="center">
-  <a href="https://github.com/Usmaelabdureman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&theme=radical&border=7F3FBF&background=0D1117" alt="Usmael's GitHub streak"/>
-  </a>
-</p> -->
-<!--
-<p align="center">
-  <a href="https://github.com/Usmaelabdureman">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Usmaelabdureman&theme=radical" alt="Usmael's GitHub Contribution"/>
-  </a>
-</p> -->
 
 <a> 
     <a href="https://github.com/Usmaelabdureman"><img alt="Usmael's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Usmaelabdureman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -122,23 +98,3 @@
 
 
 ![Usmael's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Usmaelabdureman&custom_title=Usmael%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-
-<!-- <h3 align="left">Support:</h3> 
-<p><a href="https://www.buymeacoffee.com/usmael"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/usmael" /></a></p><br><br>
-
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?user=Usmaelabdureman&show_icons=true&locale=en" alt="usmaelabdureman" /></p> 
- <p>
-  <a href="https://vaunt.dev">
-    <img src="https://api.vaunt.dev/v1/github/entities/Usmaelabdureman/contributions?format=svg&private=true" width="350" />
-  </a>
-</p>
-
-<!--<p>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Usmaelabdureman/achievements?format=svg&limit=3" width="350" />
-</p>
- <p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=Usmaelabdureman&" alt="usmaelabdureman" /></p>
-
-
-![GitHub User's stars](https://img.shields.io/github/stars/Usmaelabdureman?style=flat-square) </p> -->

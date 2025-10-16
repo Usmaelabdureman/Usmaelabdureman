@@ -3,9 +3,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Usmaelabdureman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/52814bd1-12b0-4349-bf0e-52bd603dc60e.svg)](https://wakatime.com/@52814bd1-12b0-4349-bf0e-52bd603dc60e)
-
+-->
 <h2 align="center"> 
   <p align="center" >
         <samp>&gt; Hey There 👋 , I am
@@ -13,7 +13,7 @@
         </samp>  
 </p>
   <samp>
-    <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Usmael+Abdurhaman">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Ethiopia</b> 」
     <br>

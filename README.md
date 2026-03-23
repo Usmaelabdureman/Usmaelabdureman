@@ -8,14 +8,16 @@
 -->
 <h2 align="center"> 
   <p align="center" >
-        <samp>&gt; Hey There 👋 , I am
-                <b><a target="_blank" href="https://usmael.vercel.app">Usmael </a></b>
-        </samp>  
+  <samp>&gt; Welcome to my digital workshop, I am
+    <b><a target="_blank" href="https://usmael.vercel.app">Usmael</a></b>
+  </samp>
 </p>
   <samp>
-    <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
+    「 Full Stack Builder | Problem Solver | Curious Creator 」
     <br>
-    「 I am a full stack web application developer from <b>Ethiopia</b> 」
+    Building clean, impactful web experiences from <b>Ethiopia</b>.
+    <br>
+    <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
     <br>
     <br>
   </samp>
@@ -46,16 +48,17 @@
 
 # 💫 About Me
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
   
-> I'm a passionate Full Stack Developer from Ethiopia with a knack for crafting elegant solutions to complex problems. I thrive on challenges and continuously seek opportunities to learn and grow in the ever-evolving world of technology.
+> I turn ideas into products and problems into elegant systems. I enjoy building software that feels fast, useful, and human, while continuously sharpening my craft through real-world challenges.
 
-- 🎓 Graduated with **Great Distinction** from Addis Ababa University (AAU), the 6th ranked university in Africa.
-- 🏆 Elite problem-solver, ranking in the **Top 0.4%** globally on LeetCode and excelling in ICPC challenges.
-- ❤️ Avid Code Enthusiast & Lifelong Learner.
-- 🏔️ When I'm not coding, you can find me hiking and exploring nature's trails.
-- 📧 Let's connect! Reach me at: `usmael.dev@gmail.com`
-- 💬 Have a question or want to collaborate? Feel free to ask me anything [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).
+- 🎓 Graduated with **Great Distinction** from Addis Ababa University (AAU), ranked among Africa's top universities.
+- 🏆 Ranked in the **Top 0.4%** globally on LeetCode and sharpened under pressure through ICPC contests.
+- 🛠️ I love transforming complex requirements into simple, scalable full-stack solutions.
+- 🌱 Lifelong learner, always exploring better architecture, cleaner code, and smarter workflows.
+- 🏔️ Offline mode: hiking trails, fresh air, and resetting creativity.
+- 📧 Reach me directly at: `usmael.dev@gmail.com`
+- 💬 Open to collaboration and questions anytime [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).
 
 </p>
 
@@ -82,6 +85,7 @@
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=hate-speech-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/hate-speech-api)
 [![Usmael's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=Usmaelabdureman&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/Usmaelabdureman)
 
+
 <p align="left">
   <a href="https://github.com/Usmaelabdureman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -89,12 +93,3 @@
 <br/>
 <hr/>
 <br/>
-
-<a> 
-    <a href="https://github.com/Usmaelabdureman"><img alt="Usmael's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Usmaelabdureman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Usmaelabdureman"><img alt="Usmael's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Usmaelabdureman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Usmael's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Usmaelabdureman&custom_title=Usmael%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

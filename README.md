@@ -48,7 +48,7 @@
 
 # 💫 About Me
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Looping GIF: developer coding at a laptop" />
+ <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
   
 > I turn ideas into products and problems into elegant systems. I enjoy building software that feels fast, useful, and human, while continuously sharpening my craft through real-world challenges.
 
@@ -93,24 +93,3 @@
 <br/>
 <hr/>
 <br/>
-
-## 🎞️ Animations in this repo
-
-This repository includes the following animations used in profile content and generated cards:
-
-- README GIF — https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif (used in the About Me header). Alt text was improved for accessibility.
-- SVG card animation — .vaunt/cards/contributors.svg includes a CSS animation on the element with id `carrousel` that uses `@keyframes carrousel` (24s linear infinite) to translate contributor elements horizontally.
-
-Accessibility & performance suggestions:
-
-- Keep descriptive alt text for GIFs (done).
-- Prefer lightweight, loop-limited animations for mobile visitors; consider reducing GIF animation dimensions or converting to an optimized animated PNG/WebP if load is a concern.
-- For SVG/CSS animations, ensure motion-reduce preferences are respected by adding a `prefers-reduced-motion` media query that disables or simplifies the animation for users who request reduced motion.
-
-Example CSS snippet to respect prefers-reduced-motion (add to your SVG <style> block or CSS):
-
-```css
-@media (prefers-reduced-motion: reduce) {
-  #carrousel { animation: none !important; transform: none !important; }
-}
-```

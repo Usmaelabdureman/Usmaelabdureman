@@ -1,4 +1,4 @@
-
+ 
 <a href="https://komarev.com/ghpvc/?username=Usmaelabdureman">
   <img align="right" src="https://komarev.com/ghpvc/?username=Usmaelabdureman&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -48,7 +48,7 @@
 
 # 💫 About Me
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+ <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Looping GIF: developer coding at a laptop" />
   
 > I turn ideas into products and problems into elegant systems. I enjoy building software that feels fast, useful, and human, while continuously sharpening my craft through real-world challenges.
 
@@ -80,16 +80,37 @@
 
 
 ## Top Open Source -
-[![FarmAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=FarmAdvisor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/FarmAdvisor)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=advanced-react-assignment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/advanced-react-assignment)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=hate-speech-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/hate-speech-api)
-[![Usmael's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=Usmaelabdureman&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Usmaelabdureman/Usmaelabdureman)
+[![FarmAdvisor](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=FarmAdvisor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF[...]
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=advanced-react-assignment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_co[...]
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=hate-speech-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7[...]
+[![Usmael's Readme](https://github-readme-stats.vercel.app/api/pin/?username=Usmaelabdureman&repo=Usmaelabdureman&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_colo[...]
 
 
 <p align="left">
-  <a href="https://github.com/Usmaelabdureman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Usmaelabdureman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for[...]
 </p>
 
 <br/>
 <hr/>
 <br/>
+
+## 🎞️ Animations in this repo
+
+This repository includes the following animations used in profile content and generated cards:
+
+- README GIF — https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif (used in the About Me header). Alt text was improved for accessibility.
+- SVG card animation — .vaunt/cards/contributors.svg includes a CSS animation on the element with id `carrousel` that uses `@keyframes carrousel` (24s linear infinite) to translate contributor elements horizontally.
+
+Accessibility & performance suggestions:
+
+- Keep descriptive alt text for GIFs (done).
+- Prefer lightweight, loop-limited animations for mobile visitors; consider reducing GIF animation dimensions or converting to an optimized animated PNG/WebP if load is a concern.
+- For SVG/CSS animations, ensure motion-reduce preferences are respected by adding a `prefers-reduced-motion` media query that disables or simplifies the animation for users who request reduced motion.
+
+Example CSS snippet to respect prefers-reduced-motion (add to your SVG <style> block or CSS):
+
+```css
+@media (prefers-reduced-motion: reduce) {
+  #carrousel { animation: none !important; transform: none !important; }
+}
+```

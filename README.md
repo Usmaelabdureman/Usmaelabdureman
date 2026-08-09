@@ -210,6 +210,16 @@ A personal project-management web app with a typed, modern data layer — boards
 ---
 
 <p align="center">
+  <samp>
+    <b>&ldquo;Ideas are easy. Implementation is hard.&rdquo;</b>
+    <br />
+    &mdash; Guy Kawasaki
+  </samp>
+</p>
+
+---
+
+<p align="center">
   <i>Always open to interesting problems and good collaborations.</i>
   <br /><br />
   <a href="mailto:usmael.dev@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-usmael.dev@gmail.com-F75C7E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>

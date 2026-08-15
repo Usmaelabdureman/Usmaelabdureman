@@ -30,7 +30,7 @@
   <samp>
     Building clean, impactful web experiences from <b>Ethiopia</b>.
     <br>
-    <a href="https://www.google.com/search?q=Usmael+Abdurhaman">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
   </samp>
 </p>
 

@@ -8,7 +8,6 @@
   <a href="https://komarev.com/ghpvc/?username=Usmaelabdureman">
     <img src="https://komarev.com/ghpvc/?username=Usmaelabdureman&label=Visitors&color=7F3FBF&style=flat-square" alt="Profile visitors" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9-F75C7E?style=flat-square" alt="Based in Ethiopia" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Systems-7F3FBF?style=flat-square" alt="Focus" />
 </p>
 
@@ -22,13 +21,13 @@
 
 <p align="center">
   <a href="https://usmael.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Builder+%E2%80%A2+Problem+Solver;846+problems+solved+on+LeetCode;Turning+vague+ideas+into+shipped+systems;Building+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Full Stack Builder | Problem Solver | Curious Creator" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Builder+%E2%80%A2+Problem+Solver;846+problems+solved+on+LeetCode;Turning+vague+ideas+into+shipped+systems" alt="Full Stack Builder | Problem Solver | Curious Creator" />
   </a>
 </p>
 
 <p align="center">
   <samp>
-    Building clean, impactful web experiences from <b>Ethiopia</b>.
+    Building clean, impactful web experiences.
     <br>
     <a href="https://www.google.com/search?q=Usmael+Abdurhaman+on+google">「 Google Me 」</a>
   </samp>
@@ -65,11 +64,10 @@
 
 > Code is just the medium. What I actually build is leverage — systems that keep paying off long after the last commit.
 
-- 🎓 Graduated with **Great Distinction** from Addis Ababa University (AAU), ranked among Africa's top universities.
+- 🎓 Graduated with **Great Distinction**.
 - 🏆 Ranked in the **Top 0.4%** globally on LeetCode — **846 problems** solved, forged under ICPC contest pressure.
 - 🧠 I think in tradeoffs: the fastest solution, the simplest one, and the one you can still maintain in a year.
 - ⚡ Happiest at the messy edge of a problem, where the requirements are still vague and the whiteboard is full.
-- 🌍 Building from **Ethiopia**, shipping for everywhere.
 - 🏔️ Offline mode: hiking trails, fresh air, and resetting creativity.
 - 📧 Reach me directly at: `usmael.dev@gmail.com`
 - 💬 Open to collaboration and questions anytime [here](https://github.com/Usmaelabdureman/Usmaelabdureman/issues).
